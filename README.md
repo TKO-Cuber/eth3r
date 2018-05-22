@@ -1,15 +1,22 @@
 
-# Eth3r [![Build Status](https://travis-ci.org/noahhusby/eth3r.svg?branch=master)](https://travis-ci.org/noahhusby/eth3r)
+# Eth3r [![Build Status](https://travis-ci.org/TKO-Cuber/eth3r.svg?branch=master)](https://travis-ci.org/TKO-Cuber/eth3r)
 
 A custom firmware generator.
  
-  **This is a beta program! We do not hold any responsibility for damage**
+  **This is a beta program! We do not hold any responsibility for damage!!!**
 
 # Download Links-
 
+Windows: [**Eth3r**](https://github.com/TKO-Cuber/eth3r/releases/download/v0.0.2-beta_win/Eth3r-setup.exe)
+
 Linux: [Eth3r-Linux](https://github.com/TKO-Cuber/eth3r/releases/download/v0.0.1-beta/Eth3r-Linux.zip)
 
+*note: Windows is the primary version of Eth3r, and will be the most supported in the future*
+
 # Instructions
+	- For windows, download and run setup, then read the instructions page on Eth3r.
+	
+	-For Linux, follow the following:
 	- Download this tool either from releases page or `git clone`ing it
 	- Prepare a Sn0wbreeze IPSW for your device and desired iOS Version
 		- **THIS IPSW HAS TO HAVE A ROOT PARTITION OF 2500 MB!!!**
